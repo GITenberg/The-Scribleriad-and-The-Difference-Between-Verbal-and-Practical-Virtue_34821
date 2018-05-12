@@ -1,0 +1,43 @@
+_repo: The-Scribleriad-and-The-Difference-Between-Verbal-and-Practical-Virtue_34821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+  - agent_name: Hervey, John Hervey, Baron
+    alias: Hervey, Lord
+    birthdate: 1696
+    deathdate: 1743
+    gutenberg_agent_id: '37263'
+    url: http://www.gutenberg.org/2009/agents/37263
+  editor:
+    agent_name: Sambrook, James
+    alias: Sambrook, A. J. (A. James)
+    gutenberg_agent_id: '37264'
+    url: http://www.gutenberg.org/2009/agents/37264
+description: ''
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34821'
+  lccn: '77019510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literary quarrels -- Poetry'
+- !lcsh 'Cibber, Colley, 1671-1757 -- Poetry'
+- !lcsh 'Pope, Alexander, 1688-1744 -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Verse satire, English'
+title: The Scribleriad, and The Difference Between Verbal and Practical Virtue
+url: http://www.gutenberg.org/ebooks/34821
